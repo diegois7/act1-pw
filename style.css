@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif; /* Letra más bonita */
+  text-align: center; /* Centrar contenido */
+  background-color: #f4f4f4; /* Fondo suave */
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2 {
+  color: #333;
+}
+
+h2 a {
+  color: #0073e6;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-top: 10px;
+}
+
+p {
+  font-size: 18px;
+  color: #555;
+  max-width: 600px;
+  margin: 10px auto;
+  line-height: 1.6;
+}
